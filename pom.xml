@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>java-web-project</finalName>
+    <finalName>java-web-project</finalName> 
   </build> 
 </project> 
